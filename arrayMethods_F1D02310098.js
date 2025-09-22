@@ -1,20 +1,3 @@
-// const Mahasiswa = {
-//  Mahasiswa1: { nama: "Abdi", nim: "F1D02310098", umur: 20, hobi: "Rebahan" },
-//  Mahasiswa2: { nama: "yusri", nim: "F1D02310098", umur: 21, hobi: "nonton" },
-//  Mahasiswa3: { nama: "Izzat", nim: "F1D02310114", umur: 21, hobi: "menyanyi" },
-//  Mahasiswa4: { nama: "nufa", nim: "F1D02310052", umur: 21, hobi: "Menulis" },
-//  Mahasiswa5: { nama: "fadila", nim: "F1D02310048", umur: 21, hobi: "Membaca" },
-//  Mahasiswa6: { nama: "Wahyu", nim: "F1D02310123", umur: 20, hobi: "Belajar" },
-//  Mahasiswa7: { nama: "Fia", nim: "F1D02310042", umur: 21, hobi: "Begadang" },
-//  Mahasiswa8: { nama: "Uci", nim: "F1D02310138", umur: 21, hobi: "Berlari" },
-//  Mahasiswa9: { nama: "Khair", nim: "F1D02310001", umur: 21, hobi: "Mandi" },
-//  Mahasiswa10: { nama: "Ganis", nim: "F1D02310146", umur: 21, hobi: "Traveling" }
-// };
-
-// const { nama, nim, umur, hobi
-//  } = Mahasiswa;
-// console.log(Mahasiswa);
-
 const Mahasiswa = [
  { nama: "Abdi", nim: "F1D02310098", umur: 20, hobi: "Rebahan" },
  { nama: "yusri", nim: "F1D02310098", umur: 21, hobi: "nonton" },
